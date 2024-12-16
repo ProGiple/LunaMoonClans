@@ -1,0 +1,22 @@
+menu:
+  title: "&0Создать клан"
+  rows: 5
+items:
+  decorations:
+    1:
+      material: BLACK_STAINED_GLASS_PANE
+      name: ''
+      lore: []
+      slots:
+        - 1
+  clickable:
+    create:
+      material: FIREWORK_STAR
+      name: 'Создать клан'
+      lore: []
+      slot: 2
+    allClans:
+      material: PAPER
+      name: 'Список всех кланов'
+      lore: []
+      slot: 3

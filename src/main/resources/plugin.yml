@@ -1,0 +1,4 @@
+name: LunaMoonClans
+version: '${project.version}'
+main: org.comp.progiple.lunamoonclans.LunaMoonClans
+api-version: '1.16'
